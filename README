@@ -1,1 +1,2 @@
-R
+RUN THIS IN TERMINAL
+pyinstaller --onefile --add-data "accept.png;." autoaccept.py
